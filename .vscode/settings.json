@@ -1,0 +1,7 @@
+{
+    "C_Cpp.default.compileCommands": "/Users/alula/Documents/bitmaps/builddir/compile_commands.json",
+    "C_Cpp.default.configurationProvider": "mesonbuild.mesonbuild",
+    "files.associations": {
+        "bitmaps.h": "c"
+    }
+}
