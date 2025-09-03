@@ -1,5 +1,4 @@
 #include <bitmaps.h>
-#include <stdio.h>
 
 void bitmapSetBit(bitmap_t *map, unsigned long long index) {
     map[index / 8] |= (1 << (index % 8));
