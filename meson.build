@@ -1,9 +1,9 @@
 project('bitmaps', 'c')
 
-sources = [
+sources = files([
     'src/bitmaps.c'
-]
+])
 
-include_directories = [
+include_directories = include_directories([
     'include'
-]
+])
